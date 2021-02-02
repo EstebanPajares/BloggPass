@@ -1,6 +1,6 @@
 Bienvenido al curso de Git and gitHub
 
-Esta es la historia de Esteban Pajares y nació en Perú, viviendo a la vanguardia de la tecnología.
+Esta es la historia de Esteban Pajares, tiene 35 años y nació en Perú, viviendo a la vanguardia de la tecnología.
 
-En hora buena, manos a la obra
+En hora buena, manos a la obra. 
 
