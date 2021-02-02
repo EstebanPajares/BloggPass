@@ -1,5 +1,6 @@
-Bienvenido a la clase de git y gitHub
+Bienvenido al curso de Git and gitHub
 
-Hoy iniciaremos con Visual Studio Code
+Estamos aprendiendo con platzi.
 
-Manos a la obra.
+En hora buena, manos a la obra
+
