@@ -1,0 +1,5 @@
+Bienvenido a la clase de git y gitHub
+
+Hoy iniciaremos con Visual Studio Code
+
+Manos a la obra.
