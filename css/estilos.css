@@ -1,6 +1,17 @@
 body
 {
-    text-align: center;
+    text-align: left;
     font-family: Verdana;
     color: deeppink;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    border: 1px solid #00BBFF;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
