@@ -1,3 +1,3 @@
 # hyperblog
-Un blog de prueba ara el curso de Git y GitHub
+Un blog de prueba para el curso de Git y GitHub
 En colaboracion con Ucunchino
