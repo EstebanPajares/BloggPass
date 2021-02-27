@@ -32,8 +32,9 @@ body
     font-size: 0 0em;
 }
 #footer{
-    background: #777;
+    background:#899;
     color: white;
+    list-style: georgian;
     text-align: center;
     padding: 0.5em;
 
