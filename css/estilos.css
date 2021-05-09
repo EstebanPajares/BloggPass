@@ -40,17 +40,13 @@ body{
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
-<<<<<<< HEAD
-    font-size: 0.8em;
-}
-=======
     font-size: 0 0em;
 }
 #footer{
     background: #777;
-    color: white;
+    color:white;
+    list-style: georgian;
     text-align: center;
     padding: 0.5em;
 
 }
->>>>>>> footer
