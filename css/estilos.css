@@ -42,6 +42,9 @@ body{
     font-weight: normal;
     font-size: 0 0em;
 }
+p, ul, li{
+    text-align: justify;
+}
 #footer{
     background: #777;
     color:white;
