@@ -11,18 +11,27 @@
     <div id="cabecera">
       <img id="logo" src="imagenes/Loguito.png"/>
       Bienvenidos a JEHUTEC
-      <span id="tagline">Tecnología tu alcance</span>
+      <span id="tagline">Tecnolog&iacute;a tu alcance</span>
     </div>
     <div id="post">
-      <h1>Este es el título del post</h1>
-      <p>Este es el primer p&aacute;rrafo del blog, donde vamos a explicar las cosas incre&iacute;bles que se pueden hacer con las ramas</p>
+      <h1>MIGRAR DE LA RAMA MASTER A MAIN EN GITHUB</h1>
+      <p>Procedimiento para migrar de la rama master a main:</p>
+      <ul>
+        <li>Desde nuestro GitHub hacemos una copia de nuestro repositorio, ya sea por HTTPS o SSH. Ejem:</li>
+        <li>Vamos a nuestro repositorio local</li>
+        <li>git clone git@github.com:EstebanPajares/hyperblog.git</li>
+        <li>git status // nos dir&aacute; que estamos en la rama master</li>
+        <li>git branch -m master main // Cambiaremos de la rama master a main por defecto</li>
+        <li>git push -u origin main //git push  origin main // Enviamos al repositorio remoto</li>
+        <li>git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main  // Hacemos que el HEAD apunte a main</li>
+        <li>Actualizamos la rama por defecto a main desde GitHub</li>
+        <li>Settings/Branches</li>
+        <li>Seleccionamos a main por defecto/Update</li>
+        <li>Luego eliminamos la rama master desde git y GitHub</li>
+        <li>git push origin --delete master</li>
+      </ul>
       <p>
-        Los blogs son la mejor forma de compartir informacion y
-        tus ideas. Mucho más que ir a conferencias o salir en youtube.
-        Excepto si eres un rockstar. Pero estadísticamente no lo eres... por ahora.
-      </p>
-      <p>
-        Suscríbete y dale like ...
+        Int&eacute;ntalo ...
       </p>
     </div>
     <div id="footer">
