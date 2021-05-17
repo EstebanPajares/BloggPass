@@ -1,9 +1,11 @@
 Bienvenido al curso de Git and gitHub
 
-Esta es la historia de Esteban Pajares, tiene 35 años y nació en Perú, viviendo a la vanguardia de la tecnología.
+Mediante este pequeño post conocerás la forma de migrar de la rama master a main en gitHub
 
-Hoy hablaremos de la historia de su vida y obra maestra.
 
-Ucunchino es un dev colaborador de la empresa JEHUTEC.
+Te invito a revisar el contenido.
+
+
+By Esteban Pajares
 
 
